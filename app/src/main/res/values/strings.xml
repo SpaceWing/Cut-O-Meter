@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cut\'O\'meter</string>
+    <string name="main_text">Cut\'O\'meter</string>
+    <string name="measure">Measure</string>
+    <string name="result">147%</string>
+    <string name="awersome_result">You are awersome!</string>
+</resources>
